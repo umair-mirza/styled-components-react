@@ -9,7 +9,7 @@ import GlobalStyles from './components/styles/globalStyles'
     body: '#fff',
     footer: '#003333'
   },
-  mobile: '768'
+  mobile: '768px'
  }
 
 function App() {
